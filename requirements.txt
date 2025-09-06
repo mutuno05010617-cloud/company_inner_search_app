@@ -1,3 +1,4 @@
+python-dotenv==1.0.1
 # Streamlit Community Cloud 用 requirements.txt
 # 必要なパッケージを記載
 aiohappyeyeballs==2.4.4
